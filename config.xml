@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "scratch3d.extranoobed.edu.mit.scratch"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>ScratchPE</name>
+
+    <description>
+        Scratch Editor for Android devices.
+    </description>
+
+    <author href="http://scratch.mit.edu/users/extranoobed" email="tomoyoshi.usa@gmail.com">
+        EXtraNooBeD
+    </author>
+    
+    <icon src="icon.png" />
+
+</widget>
